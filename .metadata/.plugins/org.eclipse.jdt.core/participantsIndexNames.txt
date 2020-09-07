@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\gitfolder\gitpush\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\786231914.index
-\SampleWebApp\src\main\resources
